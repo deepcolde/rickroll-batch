@@ -48,5 +48,6 @@ echo llllllllllllllllllllllllllllllti..............;:iii:;;::,...::..ltttttttttt
 echo ####################################################################################################
 echo #                                  YOU HAVE BEEN RICKROLLED                                        #
 echo ####################################################################################################
-::PART THAT PLAYS THE MUSIC, YOU MAY EDIT THIS PART IF YOU WISH TO PLAY ANOTHER SONG, IDK
+::PART THAT CALLS THE MUSIC PLAYER SCRIPT
 cscript rickroll-music-player.vbs
+
